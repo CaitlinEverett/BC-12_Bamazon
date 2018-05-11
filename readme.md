@@ -8,8 +8,8 @@ This is an Amazon-like storefront made with MySql and Node.
 
 The only module complete so far is for the customer.  
 
-![Customer Demo Gif](https://github.com/CaitlinEverett/BC-12_Bamazon/Images/custommer.gif)
-
+![Customer Demo Gif (not working so far))](https://github.com/CaitlinEverett/BC-12_Bamazon/Images/customer.gif)
+![Customer Demo Still Image](https://github.com/CaitlinEverett/BC-12_Bamazon/Images/customerStillImage.png)
 ![Cute Cat Gif](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
