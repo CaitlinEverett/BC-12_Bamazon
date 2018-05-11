@@ -1,0 +1,26 @@
+{
+  "name": "bamazon-master",
+  "version": "1.0.0",
+  "description": "### Synopsis ***",
+  "main": "bamazonExecutive.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "mysql": "^2.15.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaitlinEverett/mysqlhomework.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CaitlinEverett/mysqlhomework/issues"
+  },
+  "homepage": "https://github.com/CaitlinEverett/mysqlhomework#readme"
+}
