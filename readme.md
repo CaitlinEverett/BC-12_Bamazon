@@ -8,8 +8,7 @@ This is an Amazon-like storefront made with MySql and Node.
 
 The only module complete so far is for the customer.  
 
-![Demo](Images/bamazonCustomerDemo.gif")
-
+![Customer Demo](custommer.gif")
 
 
 ## History
