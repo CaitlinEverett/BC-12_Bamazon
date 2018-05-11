@@ -20,8 +20,8 @@ A class project for Northwestern Coding Bootcamp.
 
 ## Credits
 
-Author: Caitlin Everett 
-Teachers: NWBC Folks!
+- Author: Caitlin Everett 
+- Teachers: NWBC Folks!
 
 ## Technologies
 
