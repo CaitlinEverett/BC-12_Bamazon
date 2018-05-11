@@ -6,7 +6,7 @@ This is an Amazon-like storefront made with MySql and Node.
 
 ## Demo
 
-The only module complete so far is for the customer.  
+This is a CLI program that simulates interaction with the database of a big retailer. 
 
 ![Customer Demo Gif (not working so far))](Images/customer.gif)
 ![Cute Cat Gif](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
